@@ -1,0 +1,6 @@
+my.greeting=Hello Avantikaa Korangu & Akhilesh Kutti
+server.port=1001
+mylist.values=one,two,three
+db.connection=karthik
+db.host=mohan
+db.port=166
